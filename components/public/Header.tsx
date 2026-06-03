@@ -78,7 +78,7 @@ export function Header() {
             )}
           >
             <Phone className="h-4 w-4" />
-            <span>+233 55 512 3456</span>
+            <span>+233 24 820 9525</span>
           </a>
           <Button
             asChild

@@ -96,7 +96,7 @@ export function ContactForm() {
                             <ContactItem
                                 icon={Mail}
                                 title="Email Us"
-                                content="info@africmasdakebfarmltd.com"
+                                content="ann@africmasdakebfarmltd.com"
                             />
                         </div>
 

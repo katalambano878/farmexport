@@ -77,7 +77,7 @@ After running the migrations, you need to create an admin user:
 1. In Supabase dashboard, go to **"Authentication"** → **"Users"**
 2. Click **"Add User"** → **"Create new user"**
 3. Fill in:
-   - **Email**: `info@africmasdakebfarmltd.com`
+   - **Email**: `ann@africmasdakebfarmltd.com`
    - **Password**: (choose a strong password - you'll use this to login)
    - **Auto Confirm User**: ✅ Check this box
 4. Click **"Create user"**
@@ -88,7 +88,7 @@ After running the migrations, you need to create an admin user:
 2. Run this query (use the SAME email from Step 1):
 
 ```sql
-INSERT INTO admins (email) VALUES ('info@africmasdakebfarmltd.com');
+INSERT INTO admins (email) VALUES ('ann@africmasdakebfarmltd.com');
 ```
 
 3. You should see: ✅ Success

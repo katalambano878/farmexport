@@ -105,7 +105,7 @@ export default function LoginPage() {
                   <Input
                     id="email-password"
                     type="email"
-                    placeholder="info@africmasdakebfarmltd.com"
+                    placeholder="ann@africmasdakebfarmltd.com"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     required
@@ -137,7 +137,7 @@ export default function LoginPage() {
                   <Input
                     id="email-magic"
                     type="email"
-                    placeholder="info@africmasdakebfarmltd.com"
+                    placeholder="ann@africmasdakebfarmltd.com"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     required

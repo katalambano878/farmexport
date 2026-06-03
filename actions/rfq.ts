@@ -288,7 +288,7 @@ export async function sendRFQConfirmation(rfqId: string) {
           </ul>
           <p><strong>Destination:</strong> ${rfq.destination_country}</p>
           <p>If you have any urgent questions, please contact us at:</p>
-          <p>📧 export@africmadakeb.com<br>📞 +233 55 512 3456</p>
+          <p>📧 export@africmadakeb.com<br>📞 +233 24 820 9525</p>
           <p>Best regards,<br>The Export Team<br>Africma's & Dakeb Farm LTD</p>
         `,
       }),

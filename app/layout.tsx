@@ -89,7 +89,7 @@ export default function RootLayout({
               "logo": "https://africmasdakebfarmltd.com/images/logo.png",
               "contactPoint": {
                 "@type": "ContactPoint",
-                "telephone": "+233-55-512-3456",
+                "telephone": "+233-24-820-9525",
                 "contactType": "sales",
                 "areaServed": "World",
                 "availableLanguage": "English"
